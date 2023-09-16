@@ -1,1 +1,2 @@
 # Customer-Segmentation-and-Behavior-Analysis
+The Customer Segmentation and Behavior Analysis Data Analysis Project leverages advanced data analytics, particularly K-means clustering, to refine marketing strategies and enhance customer experiences. It systematically segments customers, analyzes behaviors, predicts churn, and provides personalized recommendations. Through data-driven insights, it optimizes engagement and resource allocation, fostering business growth.
